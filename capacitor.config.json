@@ -1,0 +1,16 @@
+{
+  "appId": "com.appname.app",
+  "appName": "appname",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorCookies": {
+      "enabled": false
+    },
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
